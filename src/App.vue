@@ -1,8 +1,8 @@
 <script setup lang="ts">
 const handleClick = () => {
-  console.log('合适的方式给')
-}
-handleClick()
+  console.log("你好士大夫");
+};
+handleClick();
 </script>
 
 <template>
